@@ -1,4 +1,4 @@
-# International-Debt-Statistics-
+# International-Debt-Statistics
 Writing SQL queries to answer interesting questions about international debt using data from The World Bank. Inspired by the 'Analyze International Debt Statistics' project on DataCamp by Sayak Paul. Finding the answers to questions like:
 1. What is the total amount of debt that is owed by the countries listed in the dataset?
 2. Which country owns the maximum amount of debt and what does that amount look like?
